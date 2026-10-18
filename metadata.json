@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER Living & Design Store",
+  "description": "Curated modern home objects, artisanal ceramics, ambient lighting, and acoustic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
